@@ -14,15 +14,16 @@ Este projeto tem como objetivo prever as vendas futuras da rede de farmácias Ro
 1. Clone o repositório:
    https://github.com/MarcelaPrettoAmorim/prediction_rossmann.git
 
-2. Instale as dependências
+2. Instale as dependências:
    pip install -r requirements.txt
 
 📊 Tecnologias usadas
-Python
-Pandas
-Scikit-Learn
-Matplotlib
-TensorFlow
+- Python
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- TensorFlow
 
 📩 Contato
+
 Caso tenha dúvidas, entre em contato pelo meu [LinkedIn](https://www.linkedin.com/in/marcela-de-pretto-amorim/).
