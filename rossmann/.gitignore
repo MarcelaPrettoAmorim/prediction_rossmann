@@ -1,0 +1,11 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar arquivos do Jupyter Notebook temporários
+*.ipynb_checkpoints/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
