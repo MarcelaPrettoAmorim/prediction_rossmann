@@ -1,0 +1,25 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar arquivos do Jupyter Notebook temporários
+*.ipynb_checkpoints/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+__pycache__/
+
+# Ignorar arquivos do VSCode
+.vscode/
+
+# Ignorar qualquer coisa dentro de site-packages
+rossmann/Lib/
+rossmann/Scripts/
+rossmann/share/
+
+venv39/Lib/
+venv39/Scripts/
+venv39/share/
