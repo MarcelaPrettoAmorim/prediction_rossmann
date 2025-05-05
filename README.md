@@ -6,7 +6,7 @@
 
 A rede de farmácias **Rosmann** está iniciando um planejamento de custos para determinar quanto será destinado para **custear melhorias e outros investimentos em cada loja** (reformas, campanhas de marketing, novas contratações, aumento de estoque, entre outros custos). Para que possam ser mais assertivos, os tomadores de decisão solicitaram uma **previsão** de quanto será a **receita de cada loja nas próximas 6 semanas** para estipular o valor que cada uma receberá, a fim de que os investimentos realizados tenham o maior retorno possível.
 
-Os dados utilizados no projeto podem ser acessado em [Rossmann Store Sales](https://www.kaggle.com/competitions/rossmann-store-sales/data)
+Os dados usados neste projeto são grandes e ultrapassaram o limite de armazenamento do GitHub, mas eles podem ser acessado em [Rossmann Store Sales](https://www.kaggle.com/competitions/rossmann-store-sales/data). Depois de baixar, coloque os arquivos na pasta `data/`.
 
 ## 📄 Metodologia
 
