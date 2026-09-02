@@ -3,6 +3,7 @@
 # Predição de vendas - Rossmann
 
 > O projeto foi desenvolvido com o objetivo de fazer a previsão das vendas de cada uma das lojas da rede Rossmann para os próximos 42 dias (6 semanas) utilizando técnicas de Machine Learning. Os resultados podem ser acessados em [Streamlit App](https://approssmann-prediction.streamlit.app/).
+**O app hiberna após período sem uso. Se aparecer a tela de suspensão, clique no botão para reativar (leva alguns segundos).**
 
 A rede de farmácias **Rosmann** está iniciando um planejamento de custos para determinar quanto será destinado para **custear melhorias e outros investimentos em cada loja** (reformas, campanhas de marketing, novas contratações, aumento de estoque, entre outros custos). Para que possam ser mais assertivos, os tomadores de decisão solicitaram uma **previsão** de quanto será a **receita de cada loja nas próximas 6 semanas** para estipular o valor que cada uma receberá, a fim de que os investimentos realizados tenham o maior retorno possível.
 
